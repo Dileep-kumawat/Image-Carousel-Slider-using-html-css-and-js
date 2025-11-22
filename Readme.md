@@ -7,7 +7,7 @@ This component features smooth fading transitions, interactive navigation arrows
 
 ## 🔗 Live Demo
 
-👉 **Live Website:** []()
+👉 **Live Website:** [https://dileep-kumawat.github.io/Image-Carousel-Slider-using-html-css-and-js/](https://dileep-kumawat.github.io/Image-Carousel-Slider-using-html-css-and-js/)
 
 ---
 
@@ -85,7 +85,7 @@ No build tools, no dependencies.
 ## 📦 Installation (Optional)
 
 ```bash
-git clone 
+git clone https://github.com/Dileep-kumawat/Image-Carousel-Slider-using-html-css-and-js.git
 cd image-carousel-slider
 open index.html
 ```
